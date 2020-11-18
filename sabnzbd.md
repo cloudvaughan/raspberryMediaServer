@@ -97,7 +97,7 @@ exit 0
 
 ```
 
-	2. Will be using crontab to start the script on boot. Alternatives can be found [here](https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/)
+2. Will be using crontab to start the script on boot. Alternatives can be found [here](https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/)
 
 ```
 cd ~
