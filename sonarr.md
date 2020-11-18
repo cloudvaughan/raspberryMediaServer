@@ -17,6 +17,7 @@ We will be installing on Raspbian 10(Buster), OS installed as per [Setup](setupR
 
 ## Installation Steps
 1. Install the optionals, mono and MediaInfo
+
 Add Mono Repository
 ```
 sudo apt install apt-transport-https dirmngr gnupg ca-certificates
@@ -29,7 +30,9 @@ Install Mono
 sudo apt install mono-devel
 ```
 Test Installation
+
 Follow Instructions on [this page](https://www.mono-project.com/docs/getting-started/mono-basics/)
+
 2. Add Sonarr Repository
 ```
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 2009837CBFFD68F45BC180471F4F90DE2A9B4BF8
@@ -41,6 +44,6 @@ sudo apt update
 sudo apt install sonarr
 ```
 4. View Sonarr
-Browse to http://localhost:8989 to start using Sonarr.
 
+Browse to http://localhost:8989 to start using Sonarr.
 (Replace 'localhost' with your server IP if you're connecting remotely)

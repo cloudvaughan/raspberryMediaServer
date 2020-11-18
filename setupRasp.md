@@ -15,6 +15,13 @@ Steps
 - Change configuration using sudo raspi-config
 	- Update Localization Settings
 	- Extend memory
+- Open the deb-src repository, a few of the installations require this.
+```
+sudo nano /etc/apt/sources.list 
+Uncomment the following line
+deb-src http://raspbian.raspberrypi.org/raspbian/ buster main contrib non-free rpi
+
+```
 - Update the raspberry pi
 	-`sudo apt update`
 	- `sudo apt full-upgrade` 

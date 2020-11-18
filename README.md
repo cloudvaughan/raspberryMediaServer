@@ -7,20 +7,19 @@ Raspberry Pi 4: [PiShop](https://www.pishop.co.za/store/raspberry-pi-4-model-b-4
 
 Steps
 - Setup Raspberry Pi
-- Install and Configure SABNZDBD
-	- Using EasyNews
-- Install and Configure SONARR
-- Install and Configure Plex Media Server
+- Install sabnzbd
+	- Using EasyNews - Will not be covered
+- Install SONARR
+	- Using nzbgeek - Will not be covered
+- Install Plex Media Server
 
 
-## Setup Raspberry Pi Instructions
+## Setup Raspberry Pi
 [Setup](setupRasp.md) - Completed
-
 ## SABNZDBD
-Work in Progress
+Install [sabnzbd](sabnzbd.md) - Completed
 ## SONARR
 Install [sonarr](sonarr.md) - Completed
 ## Plex Media Server
-Work in Progress
-
+Install [plex](plex.md) - Works, but need to add my own steps
 
