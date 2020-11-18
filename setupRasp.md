@@ -27,5 +27,5 @@ Steps
 - Mount Drive on Boot Up
 	- `sudo nano /etc/fstab`
 	- add following line:
-		`UUID=6E0C10360C0FF83B  /mnt/MasonMediaPi ntfs defaults,auto,users,rw,nofail 0 0` 
+		`UUID=6E0C10360C0FF83B  /mnt/(driveName) ntfs defaults,auto,users,rw,nofail 0 0` 
 
