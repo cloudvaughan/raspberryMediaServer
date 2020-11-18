@@ -19,7 +19,7 @@ Steps
 ## SABNZDBD
 Work in Progress
 ## SONARR
-Work in Progress
+Install [sonarr](sonarr.md) - Completed
 ## Plex Media Server
 Work in Progress
 
